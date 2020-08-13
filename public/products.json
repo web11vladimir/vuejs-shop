@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "Яблоки",
+		"price": 700,
+		"rating": 4,
+		"image": "/image/product1.svg"
+	}, 
+	{
+		"id": 2,
+		"name": "Бананы",
+		"price": 800,
+		"rating": 4,
+		"image": "/image/product2.svg"
+	}, 
+	{
+		"id": 3,
+		"name": "Клубника",
+		"price": 900,
+		"rating": 4,
+		"image": "/image/product3.svg"
+	}, 
+	{
+		"id": 4,
+		"name": "Помидоры",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product4.svg"
+	},
+	{
+		"id": 5,
+		"name": "Апельсины",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product5.svg"
+	},
+	{
+		"id": 6,
+		"name": "Морковь",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product6.svg"
+	},
+	{
+		"id": 7,
+		"name": "Арбуз",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product7.svg"
+	},
+	{
+		"id": 8,
+		"name": "Ананас",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product8.svg"
+	},
+	{
+		"id": 9,
+		"name": "Виноград",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product9.svg"
+	},
+	{
+		"id": 10,
+		"name": "Лимон",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product10.svg"
+	},
+	{
+		"id": 11,
+		"name": "Малина",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product11.svg"
+	},
+	{
+		"id": 12,
+		"name": "Вишня",
+		"price": 1000,
+		"rating": 4,
+		"image": "/image/product12.svg"
+	}
+]
